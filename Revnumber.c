@@ -3,7 +3,7 @@ int main()
 {
 int n,revnum=0,remain;
 printf("Enter the number:");
-scanf("%d",revnum);
+scanf("%d",n);
 while(n!=0)
 {
 remain=n%10;
